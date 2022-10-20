@@ -1,5 +1,8 @@
 # CppBspwm
 Script escrita en Lenguaje C++, que instala automaticamente la configuracion de s4vitar.
+> Probado en Parrot
+
+*OJO, la script solo funciona en distribuciones de linux basadas en Debian, Especialmente Parrot OS*
 
 <h1>Guia De Instalacion</h1>
 
